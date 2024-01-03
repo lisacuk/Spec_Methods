@@ -10,3 +10,5 @@ Folder structure:
  - `Original video (with stops)/` - Contains the original video files, which incude stops in the ride. These clips are split into 5 minute segments.
  - `Route data/` - this contains csv files with well-known text (WKT) representation of the route taken. The WKT data can be used to plot the route in GIS software. It also contains the a notebook with the code used to generate the WKT data and map the audio and video data on to timed segments of the route.
  - `Vibration data/` - Contains the the code and data for the optical flow analysis of the video data.
+
+ Note that at the time of submission, the final video file (`MileEnd-Hyde-Park-iPhoneAudio.mp4`) is not present in the repo as it is 4,48 GB and would take to long to upload using Git Large File Storage. It can be found on [cloud storage here](https://www.icloud.com/iclouddrive/085KKFuzxcoAcHNufAjX0grgQ#MileEnd-Hyde-Park-iPhoneAudio).
